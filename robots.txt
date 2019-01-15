@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.coacoacoa.org/sitemap.xml
+Sitemap: https://www.coacoacoa.net/sitemap.xml
